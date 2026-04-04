@@ -71,6 +71,44 @@ La soberanía tecnológica no es un atributo accesorio, sino el principio rector
 Script de instalación: https://github.com/jzavalar/Mi_idempiere/blob/main/script-de-instalacion-de-idempiere.md
 
 ---
+### **Curso Funcional de iDempiere**
+Aprende a crear ventanas, formas, procesos, reportes, validaciones, cálculos y desarrollo de plug-ins
+Instructor: [José Francisco Rodríguez Chávez](https://www.udemy.com/user/jose-francisco-161/)
+Last updated 7/2022
+
+Este curso incluye:  
+- 10.5 horas de video bajo demanda  
+- 1 artículo  
+- 3 recursos descargables  
+- Acceso en móvil y TV  
+- Acceso completo de por vida  
+- Subtítulos cerrados  
+- Certificado de finalización
+
+Temas:
+1. Aspectos Básicos del iDempiere  
+2. Instalación y Configuración del iDempiere  
+3. Configuración Inicial de un Grupo Empresarial  
+4. Manejo de Diversos Catálogos  
+5. Administración del Módulo Contable  
+6. Llevar el Control de los Inventarios en el Sistema  
+7. Creación de Formatoss de Importación  
+8. Importación de Datos  
+9. Manejo del Módulo de Compras  
+10. Control de las Cuentas por Pagar  
+11. Manejo del Módulo de Ventas  
+12. Control de las Cuentas por Cobrar  
+13. Manejo de las Notas de Crédito Proveedores/Clientes  
+14. Registro de los Anticipos de Proveedores/Clientes  
+15. Registro de Pagos/Recaudos en el Sistema  
+16. Manejo del Módulo de Activos Fijos  
+17. Seguridad del Sistema  
+18. Crear y Enviar Mensajes de Difusión
+
+
+https://www.udemy.com/course/curso-completo-funcional-de-idempiere/
+
+---
 
 ### **Curso Tecnico de iDempiere**
 Aprende a crear ventanas, formas, procesos, reportes, validaciones, cálculos y desarrollo de plug-ins
