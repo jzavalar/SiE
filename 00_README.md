@@ -149,13 +149,13 @@ Last updated 7/2022
 17. Desarrollo y Diseño de Reportes Jasper
 18. Integración de Reportes Jasper
 
-URL al curso: [https://www.udemy.com/course/curso-tecnico-de-idempiere/](https://www.udemy.com/course/curso-tecnico-de-idempiere/)
+- URL al Curso:  [https://www.udemy.com/course/curso-tecnico-de-idempiere/](https://www.udemy.com/course/curso-tecnico-de-idempiere/)
 ---
 ### Video
 
 **Instalación de ambiente de producción Idempiere**
 Luis Alberto Cevallos Cavero
 Playlist 4 videos
-https://www.youtube.com/playlist?list=PLupiJKrZqvT29qskmichl3czxer8Rx4aQ
+- https://www.youtube.com/playlist?list=PLupiJKrZqvT29qskmichl3czxer8Rx4aQ
 ---
 [^1]: Profesor-investigador del Departamento de Economía de la Universidad Autónoma Metropolitana, Unidad Iztapalapa. email: [jzr@xanum.uam.mx](mailto:jzr@xanum.uam.mx), [https://t.me/jzavalar](https://t.me/jzavalar).
