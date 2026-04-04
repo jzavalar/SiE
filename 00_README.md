@@ -72,11 +72,13 @@ Script de instalación: https://github.com/jzavalar/Mi_idempiere/blob/main/scrip
 
 ---
 ### **Curso Funcional de iDempiere**
-Aprende a crear ventanas, formas, procesos, reportes, validaciones, cálculos y desarrollo de plug-ins
-Instructor: [José Francisco Rodríguez Chávez](https://www.udemy.com/user/jose-francisco-161/)
-Last updated 7/2022
 
-Este curso incluye:  
+Aprende a automatizar una empresa con calidad y a un precio bajo, sin necesidad de ser programador.
+
+Instructor: [José Francisco Rodríguez Chávez](https://www.udemy.com/user/jose-francisco-161/)
+Last updated 11/2024
+
+**Este curso incluye:**  
 - 10.5 horas de video bajo demanda  
 - 1 artículo  
 - 3 recursos descargables  
@@ -85,7 +87,7 @@ Este curso incluye:
 - Subtítulos cerrados  
 - Certificado de finalización
 
-Temas:
+**Temas:**
 1. Aspectos Básicos del iDempiere  
 2. Instalación y Configuración del iDempiere  
 3. Configuración Inicial de un Grupo Empresarial  
@@ -105,17 +107,20 @@ Temas:
 17. Seguridad del Sistema  
 18. Crear y Enviar Mensajes de Difusión
 
-
-https://www.udemy.com/course/curso-completo-funcional-de-idempiere/
+URL al Curso: [https://www.udemy.com/course/curso-completo-funcional-de-idempiere/](https://www.udemy.com/course/curso-completo-funcional-de-idempiere/)
 
 ---
 
 ### **Curso Tecnico de iDempiere**
-Aprende a crear ventanas, formas, procesos, reportes, validaciones, cálculos y desarrollo de plug-ins
+
+Aprende a crear ventanas, formas, procesos, reportes, validaciones, cálculos y desarrollo de plug-ins.
+
 Instructor: [José Francisco Rodríguez Chávez](https://www.udemy.com/user/jose-francisco-161/)
+
 Last updated 7/2022
 
-Este curso incluye:  
+**Este curso incluye:**  
+
 - 12 horas de video bajo demanda  
 - 2 artículos  
 - Recursos descargables  
@@ -124,27 +129,27 @@ Este curso incluye:
 - Subtítulos cerrados  
 - Certificado de finalización
 
-Temas:
-Preparar el Ambiente de Desarrollo
-Creación de Nuevos Modelos usando Diccionario de Datos
-Definición de Elementos, Tablas, Ventanas, Pestañas y Campos
-Diseño y Organización de Ventanas
-Administración del Menú
-Relación de Entidades
-Establecer un Valor por Defecto Estático
-Establecer un Valor por Defecto Dinámico
-Crear Validaciones Dinámicas
-Crear Campos Virtuales
-Modificar un Modelo Existente
-Desarrollo y Publicación de CallOuts
-Crear Eventos Validadores
-Desarrollo de Plug-ins
-Uso del Apache Felix OSGi
-Desarrollo de Ventanas Personalizadas
-Desarrollo y Diseño de Reportes Jasper
-Integración de Reportes Jasper
+**Temas:**  
+1. Preparar el Ambiente de Desarrollo
+2. Creación de Nuevos Modelos usando Diccionario de Datos
+3. Definición de Elementos, Tablas, Ventanas, Pestañas y Campos
+4. Diseño y Organización de Ventanas
+5. Administración del Menú
+6. Relación de Entidades
+7. Establecer un Valor por Defecto Estático
+8. Establecer un Valor por Defecto Dinámico
+9. Crear Validaciones Dinámicas
+10. Crear Campos Virtuales
+11. Modificar un Modelo Existente
+12. Desarrollo y Publicación de CallOuts
+13. Crear Eventos Validadores
+14. Desarrollo de Plug-ins
+15. Uso del Apache Felix OSGi
+16. Desarrollo de Ventanas Personalizadas
+17. Desarrollo y Diseño de Reportes Jasper
+18. Integración de Reportes Jasper
 
-https://www.udemy.com/course/curso-tecnico-de-idempiere/
+URL al curso: [https://www.udemy.com/course/curso-tecnico-de-idempiere/](https://www.udemy.com/course/curso-tecnico-de-idempiere/)
 ---
 ### Video
 
